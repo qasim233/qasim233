@@ -79,15 +79,6 @@ Distributed collaborative + content-based filtering pipeline processing 100K+ re
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qasim233&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasim233&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   📬 <strong>Let's connect</strong> — open to AI/ML Engineer roles (Pakistan or remote).
   <br/>
