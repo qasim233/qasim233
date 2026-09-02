@@ -4,6 +4,12 @@
   <em>AI/ML Engineer · Computer Vision & Deep Learning · GenAI/RAG Systems · Building toward Agentic AI</em>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode (1).svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode (1).svg" />
+  <img alt="qasim233's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-qasim-a51a23291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:muhammad.qasim031221@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
